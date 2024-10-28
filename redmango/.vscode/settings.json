@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3d091504-0ca2-4ff9-889c-5f58cd0ae814/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bussy-redmango",
+    "appService.deploySubpath": "."
+}

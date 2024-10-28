@@ -1,0 +1,22 @@
+{
+  "destination": [
+    {
+      "id": "1",
+      "city": "New York",
+      "country": "USA",
+      "daysNeeded": 5
+    },
+    {
+      "id": "2",
+      "city": "Chicago",
+      "country": "USA",
+      "daysNeeded": 5
+    },
+    {
+      "id": "94.00083186818433",
+      "city": "Busayo",
+      "country": "Ngn",
+      "daysNeeded": 1
+    }
+  ]
+}
